@@ -42,7 +42,7 @@ Becoming an effective googler is a 3-step process
 
 ###Identify the problem
 ####Errors
-The terminal, the console, and our editor are our closest allys. Often, errors and exceptions allow us to quickly spot problems and often explain how to fix them ourselves:
+The terminal, the console, and our editor are our closest allies. Often, errors and exceptions allow us to quickly spot problems and often explain how to fix them ourselves:
 ![](./images/underline.png)
 
 Other times, the error provides a googleable phrase:
